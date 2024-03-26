@@ -16,4 +16,4 @@ figured that shit out.    am at https://youtu.be/nH9E25nkk3I?si=PtAusBR-XHDHTQ-a
 
 
 
-done with validation and schemsa and stuff. next up os express routers( the good shit now.) https://youtu.be/nH9E25nkk3I?si=88LhWCkRv9qalmVB&t=8392
+done with validation and schema and stuff. next up os express routers( the good shit now.) https://youtu.be/nH9E25nkk3I?si=88LhWCkRv9qalmVB&t=8392
