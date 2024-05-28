@@ -35,7 +35,7 @@ const mockUsers = [
   { id: 2, username: "brad", displayName: "b-dog" },
   { id: 3, username: "charley", displayName: "chucky" },
   { id: 4, username: "delphine", displayName: "daphney" },
-  { id: 5, username: "edwward", displayName: "scissor-fing'a" },
+  { id: 5, username: "edward", displayName: "scissora" },
   { id: 6, username: "franklin", displayName: "danklin" },
 ];
 
